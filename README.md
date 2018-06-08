@@ -30,9 +30,9 @@ To see an example of what Casing can do, clone the repository and open the below
 subdirectories using Framer.
 
 * `example-tictactoe.framer` - A Framer/Casing version of the popular [React Tutorial][react-tutorial]
-![TicTacToe example](./img/example_tictactoe.png){:height="50%" width="50%"}
+![TicTacToe example](./img/example_tictactoe.png)
 * `example-webapp.framer` - example of a simple non-linear multi-screen webapp
-![WebApp example](./img/example_webapp.png){:height="50%" width="50%"}
+![WebApp example](./img/example_webapp.png)
 
 
 
